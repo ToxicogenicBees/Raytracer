@@ -1,1 +1,0 @@
-powershell -Command "g++ -std=c++17 -Wall -Wextra -Iinclude $(Get-ChildItem -Recurse -Filter '*.cpp' | ForEach-Object { $_.FullName }) -o build/render.exe"
