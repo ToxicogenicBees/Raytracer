@@ -1,4 +1,4 @@
-# Simple raycasting project
+# Simple raytracing project
 * Support for rendering spheres, cubes, planes, polygons, and polygon meshes
 * Supports both simple and recursive shading
   * Reflective surfaces, transparent surfaces
